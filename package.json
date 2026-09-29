@@ -1,0 +1,1 @@
+{"name":"dashboard-backend","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node --env-file-if-exists=.env src/server.js","test":"node --test"},"dependencies":{"cors":"^2.8.5","express":"^5.1.0","jose":"^6.1.0"}}
